@@ -15,7 +15,7 @@ python setup.py install
 ```
 
 ## Starting vault
-You can just type the **secret_vault** command from anywhere in the terminal to start the program.
+You can just type the **secret_vault** command from anywhere in the to start the program.
 
 The first time when you open the program, you are asked to Create a Master Password.
 That Master Password is used to identify you and also encrypt your files.
